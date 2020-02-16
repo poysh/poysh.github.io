@@ -230,7 +230,7 @@ d3.json(dataFile).then(function(data){
                 }
 
                 //hide all
-                if (d3.select(this).attr("name") == "Alle verbergen" || d3.select(this).attr("name") == "Hide all"){
+                else if (d3.select(this).attr("name") == "Alle verbergen" || d3.select(this).attr("name") == "Hide all"){
                     
                     // hiode all but the inner most ring
                     d3.selectAll("path").filter(function(d){
@@ -240,16 +240,20 @@ d3.json(dataFile).then(function(data){
 
                     d3.selectAll(".nameText").style('opacity', setOpacity);
 
-                    d3.selectAll(".legend").filter(function(d){
-                        var fadedLegend = d3.select(this).attr("name") != "Alle anzeigen" || d3.select(this).attr("name") != "Show all";
-                        return fadedLegend
-                    }).style("opacity", 0.5);
+                    d3.selectAll(".legend").style("opacity", function(d){
+                        if (d3.select(this).attr("name") == "Alle anzeigen" || d3.select(this).attr("name") == "Show all"){
+                            return 1;
+                        } else {
+                            return setOpacity;
+                        }
+                        
+                    })
 
                     d3.selectAll(".legendRect").style("opacity", 0.5); 
                 }
 
                 // blend out the circles
-                if (d3.select(this).attr("name") == current && (d3.select(this).attr("name") != "Alle anzeigen" || d3.select(this).attr("name") != "Show all")
+                else if (d3.select(this).attr("name") == current && (d3.select(this).attr("name") != "Alle anzeigen" || d3.select(this).attr("name") != "Show all")
                 && (d3.select(this).attr("name") != "Alle verbergen" || d3.select(this).attr("name") != "Hide all")){
                     
                     d3.selectAll("path").filter(function(d) {
