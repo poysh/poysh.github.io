@@ -1,0 +1,17 @@
+body {
+    font-family:  Arial;
+    margin: auto;
+    position: relative;
+
+  }
+  
+  
+  form {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+  }
+
+.nameText {
+  font-family: 'Arial'
+}
