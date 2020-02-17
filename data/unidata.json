@@ -14,7 +14,7 @@
     "Profs": [
         {
             "name": "Softwarekonstruktion",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "Philosophie, TUHH, HAW, Projekt AB, PartnerA, Partner B, PartncrC, PartnerD", 
             "link": "https://www.uni-hamburg.de/",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Verteilte Systeme",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Angew. Softwaretechnik",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -38,7 +38,7 @@
         },
         {
             "name": "Sicherheit in Verteilten Systemen",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -46,7 +46,7 @@
         },
         {
             "name": "(W1) Sicherheit/ Sicherheitsmgmt.",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Rechennetze",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -63,16 +63,7 @@
         {
             "name": "Alg., Randomisierung und Theorie",
             "name-lang": "Algorithmen, Randomisierung und Theorie",
-            "profname": "",
-            "Status": "Verfahren abgeschlossen",
-            "Kooperationspartner": "",
-            "link": "https://www.uni-hamburg.de/",
-            "bild": ""
-        },
-        {
-            "name": "Theorie Effizienter Algorithmen",
-            "name-lang": "",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -80,7 +71,7 @@
         },
         {
             "name": "(W1) Data Literacy Education",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -88,7 +79,7 @@
         },
         {
             "name": "(W1) Mobile Services",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -96,7 +87,7 @@
         },
         {
             "name": "Wiss. Rechnen (DKRZ)",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -104,7 +95,7 @@
         },
         {
             "name": "Wiss. Visualisierung (RRZ)",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -112,7 +103,7 @@
         },
         {
             "name": "Daten Enginieering",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -120,7 +111,7 @@
         },
         {
             "name": "Simulation & Visualisierung",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -128,7 +119,7 @@
         },
         {
             "name": "Alg. Molekulares Design",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -136,7 +127,7 @@
         },
         {
             "name": "(W1) Angewandte Bioinf.",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -144,7 +135,7 @@
         },
         {
             "name": "Rechnerg. Systembiologie",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -152,7 +143,7 @@
         },
         {
             "name": "Maschinelles Lernen",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -160,7 +151,7 @@
         },
         {
             "name": "(W1TT) Maschinelles Lernen",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -168,7 +159,7 @@
         },
         {
             "name": "Autonome Systeme",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -176,7 +167,7 @@
         },
         {
             "name": "(W1TT) Sem. Systeme",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -184,7 +175,7 @@
         },
         {
             "name": "Wissenstechnologien",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -192,7 +183,7 @@
         },
         {
             "name": "Signalverarbeitung",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -200,7 +191,7 @@
         },
         {
             "name": "Bildverarbeitung",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -208,7 +199,7 @@
         },
         {
             "name": "(W1TT) Assistenzsysteme",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -216,7 +207,7 @@
         },
         {
             "name": "Sprachtechnologie",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -224,7 +215,7 @@
         },
         {
             "name": "Multimodale Systeme",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -240,7 +231,7 @@
         },
         {
             "name": "Rechnerg. Kognitive Systeme",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -248,7 +239,7 @@
         },
         {
             "name": "Ethik in der Informationstechnik",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -256,7 +247,7 @@
         },
         {
             "name": "IT-Gestaltung",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -264,7 +255,7 @@
         },
         {
             "name": "(W1TT) Wirtschaftsinformatik",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -272,7 +263,7 @@
         },
         {
             "name": "(W1TT) Betriebssysteme",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -280,7 +271,7 @@
         },
         {
             "name": "(W1TT) Adaptive Systeme",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -288,15 +279,16 @@
         },
         {
             "name": "IT Management",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
             "bild": ""
         },
         {
-            "name": "Digital Transformation & Technochange",
-            "profname": "",
+            "name": "Dgtl. Transform. & Technochange",
+            "langerName": "Digital Transformation & Technochange",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -304,7 +296,7 @@
         },
         {
             "name": "Datenbanken",
-            "profname": "",
+            "profname": "Prof. A B",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
             "link": "",
@@ -384,7 +376,8 @@
     ],
     "InKoop" : [
         {
-            "name": "Wirtschafts- und Sozialwissenschaften",
+            "name": "Wirtschafts- & Sozialwiss.",
+            "langerName": "Wirtschafts- und Sozialwissenschaften",
             "more": "(Wirtschaftsinformatik)",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -405,9 +398,9 @@
             "link": "https://www.uni-hamburg.de/",
             "bild": ""
         },
-        {
-            "name": "Regionales Rechenzentrum",
-            "more": "RRZ",
+        {   
+            "name": "RRZ",
+            "langerName": "Regionales Rechenzentrum",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
             "bild": ""
@@ -478,7 +471,7 @@
     ],
     "AuKoop" : [
         {
-            "name": "Kooperationsplatform ahoi.digital",
+            "name": "Koop.platform ahoi.digital",
             "more": "",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -499,7 +492,7 @@
             "bild": ""
         },
         {
-            "name": "Hamburg Open Online University",
+            "name": "HH Open Online University",
             "more": "",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -527,28 +520,31 @@
             "bild": ""
         },
         {
-            "name": "Deutsches Klimarechenzentrum",
+            "name": "Deutsches Klima-RZ",
             "more": "(DKRZ)",
             "Kooperationspartner": "",
             "link": "",
             "bild": ""
         },
         {
-            "name": "Nationale & internat. Kooperationen",
+            "name": "Nat. & internat. Koop.",
+            "langerName" : "Nationale & Internationale Kooperationen",
             "more": "EU, DFG, BMBF, BWMI, ERASMUS+, LFF...",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
             "bild": ""
         },
         {
-            "name": "Tsinghua University Beijing/ China",
+            "name": "Tsinghua University",
+            "langerName" : "Tsinghua University Beijing/ China",
             "more": "(TRR 169)",
             "Kooperationspartner": "",
             "link": "",
             "bild": ""
         },
         {
-            "name": "Universitätsklinikum Eppendorf",
+            "name": "UKE",
+            "langerName": "Universitätsklinikum Eppendorf",
             "more": "(TRR 169)",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
@@ -562,8 +558,9 @@
             "bild": ""
         },
         {
-            "name": "Kuratorium IT-Mgmt. & -Consulting",
-            "more": "test, test, test, test, test, test, test, test, test, test, test, test",
+            "name": "Kur. IT-Mgmt. & -Consulting",
+            "langerName": "Kuratorium IT-Management & -Consulting",
+            "more": "",
             "Kooperationspartner": "",
             "link": "https://www.uni-hamburg.de/",
             "bild": ""
