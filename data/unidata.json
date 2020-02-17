@@ -37,7 +37,8 @@
             "bild": ""
         },
         {
-            "name": "Sicherheit in Verteilten Systemen",
+            "name": "Sicherheit in Vert. Systemen",
+            "langerName": "Sicherheit in Verteilten Systemen",
             "profname": "",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
@@ -45,7 +46,7 @@
             "bild": ""
         },
         {
-            "name": "(W1) Sicherheit/ Sicherheitsmgmt.",
+            "name": "(W1) Sicherheit/Sicherheitsmgmt.",
             "profname": "",
             "Status": "Verfahren abgeschlossen",
             "Kooperationspartner": "",
@@ -61,7 +62,7 @@
             "bild": ""
         },
         {
-            "name": "Alg., Randomisierung und Theorie",
+            "name": "Alg., Randomisierung & Theorie",
             "name-lang": "Algorithmen, Randomisierung und Theorie",
             "profname": "",
             "Status": "Verfahren abgeschlossen",
