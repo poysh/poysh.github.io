@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>horseback Riding😍</title>
+    <style>
+      body {
+        text-align: center;
+        background: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+        color: #10516a;
+      }
+      .container {
+        max-width: 600px;
+        display: block;
+        margin: 0 auto;
+        padding: 20px;
+        border-radius: 10px;
+        background-color: rgba(255, 255, 255, 0.8);
+      }
+      .change-theme {
+        background: black;
+        color: white;
+        font-size: 12px;
+        padding: 10px;
+        border: none;
+        border-radius: 4.5px;
+        margin: 1%;
+      }
+
+      .change-theme:hover {
+        color: black;
+        background: white;
+      }
+
+      img {
+        width: 80%;
+        border-radius: 10px;
+        transition: all 250ms ease-in-out;
+        max-width: 100%;
+      }
+      img:hover {
+        transform: scale(1.1);
+      }
+      .solo-pic {
+        width: fit-content;
+        position: block;
+        margin: 0 auto;
+      }
+      .solo-pic:hover {
+        transform: none;
+      }
+
+      .grid {
+        margin: 15px 0;
+        display: grid;
+        justify-items: center;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 15px;
+      }
+
+      .grid img {
+        width: 100%;
+        aspect-ratio: 0.9;
+        transition: all 250ms ease-in-out;
+      }
+      .grid img:hover {
+        transform: scale(2);
+      }
+      .learn-more {
+        padding: 20px 30px;
+        display: block;
+        margin: 10px auto;
+        border: 1px solid skyblue;
+        color: rgb(141, 193, 252);
+        background: transparent;
+        font-size: 20px;
+        border-radius: 10px;
+        transition: all 250ms ease-in-out;
+      }
+      .learn-more:hover {
+        background: rgb(141, 193, 252);
+        color: white;
+        cursor: pointer;
+        border: 1px solid rgb(141, 193, 252);
+      }
+      footer {
+        text-align: center;
+        margin: 10px;
+        color: gray;
+        font-size: 15px;
+      }
+      p {
+        color: #10516a;
+        border: 1px solid #10516a;
+        border-radius: 10px;
+        padding: 20px 30px;
+        text-align: center;
+        line-height: 1.5;
+        font-size: 18px;
+      }
+      a {
+        color: #485563;
+      }
+      a:hover {
+        text-decoration: none;
+      }
+
+      /*---------------------------- dark theme settings---------------------------------------*/
+      .dark {
+        background: linear-gradient(60deg, #29323c 0%, #485563 100%);
+      }
+
+      .dark .container {
+        background: rgba(0, 0, 0, 0.2);
+        color: rgb(194, 231, 244);
+      }
+      .dark p {
+        color: rgb(186, 214, 223);
+        border: 1px solid rgb(179, 205, 215);
+      }
+      .dark .learn-more {
+        background: rgb(86, 86, 86);
+        color: rgb(220, 231, 234);
+      }
+      .dark .learn-more:hover {
+        background: rgb(60, 142, 174);
+        color: white;
+        cursor: pointer;
+        border: 1px solid rgb(60, 142, 174);
+      }
+      .dark footer {
+        color: azure;
+      }
+      .dark a {
+        color: azure;
+      }
+
+      .dark .change-theme {
+        background: white;
+        color: black;
+      }
+      .dark .change-theme:hover {
+        color: white;
+        background: black;
+      }
+      /*---------------------------- dark theme settings---------------------------------------*/
+    </style>
+  </head>
+  <body>
+    <button class="change-theme">Change Theme</button>
+    <div class="container">
+      <h1>Horseback Riding</h1>
+      <h2>On Becoming An Equestrian</h2>
+
+      <img
+        src="https://images.pexels.com/photos/4641142/pexels-photo-4641142.jpeg?auto=compress&cs=tinysrgb&w=800"
+        alt=""
+        class="solo-pic"
+      />
+
+      <div class="grid">
+        <img
+          src="https://images.pexels.com/photos/93489/pexels-photo-93489.jpeg?auto=compress&cs=tinysrgb&w=800"
+          alt=""
+        />
+
+        <img
+          src="https://www.scoliosissos.com/news/image-277.jpeg?picture=/scoliosis-horse-riding.jpg"
+          alt=""
+        />
+
+        <img
+          src="https://images.pexels.com/photos/3723103/pexels-photo-3723103.jpeg?auto=compress&cs=tinysrgb&w=800"
+          alt=""
+        />
+      </div>
+      <p>
+        Equestrianism, commonly known as horse riding or horseback riding,
+        includes the disciplines of riding, driving, and vaulting. This broad
+        description includes the use of horses for practical working purposes,
+        transportation, recreational activities, artistic or cultural exercises,
+        and competitive sport. Read more
+        <a href="https://en.wikipedia.org/wiki/Equestrianism">here!</a>
+      </p>
+      <img
+        src="https://images.pexels.com/photos/7883419/pexels-photo-7883419.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        alt=""
+        class="solo-pic"
+      />
+      <button class="learn-more">Available Classes</button>
+      <footer>Coded by Leila Daraei</footer>
+    </div>
+    <script>
+      function changeTheme() {
+        let body = document.querySelector("body");
+        if (body.classList.contains("dark")) {
+          body.classList.remove("dark");
+        } else {
+          body.classList.add("dark");
+        }
+      }
+
+      let darkTheme = document.querySelector(".change-theme");
+      darkTheme.addEventListener("click", changeTheme);
+
+      function information() {
+        let name = prompt("Hi, what's your name ?");
+        let city = prompt("and where do you live?");
+        let email = prompt("please enter your email address😊");
+        alert(
+          `Dear ${name}, we sent you an email to this address: ${email} including the courses available near your place:"${city}"! Enjoy!😍`
+        );
+      }
+      let button = document.querySelector(".learn-more");
+      button.addEventListener("click", information);
+    </script>
+  </body>
+</html>
